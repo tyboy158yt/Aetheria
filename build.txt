@@ -1,0 +1,3 @@
+displayName = Aetheria Mod (PRE-ALPHA)
+author = TyBoy158
+version = 0.1

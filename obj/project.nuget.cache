@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMKdGLZW+FxO0PJPGPg5s+pJTdwrWygupcRHhbsl1eJyk328l6q70mD9L6TC8tMiAU5nIWpTBTJsi0lxqUjSlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theac\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

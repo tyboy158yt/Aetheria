@@ -1,0 +1,13 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	TutorialSword: {
+		DisplayName: Tutorial Sword
+		Tooltip: Basic sword
+	}
+
+	StarOfEden: {
+		DisplayName: Star Of Eden
+		Tooltip: "Survive or be destroyed, there is no other choice"
+	}
+}
