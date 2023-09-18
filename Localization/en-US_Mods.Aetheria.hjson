@@ -8,6 +8,13 @@ Items: {
 
 	StarOfEden: {
 		DisplayName: Star Of Eden
-		Tooltip: "Survive or be destroyed, there is no other choice"
+		Tooltip: Survive or be destroyed, there is no other choice
+	}
+
+	Squidmelter: {
+		DisplayName: Squidmelter
+		Tooltip: Makes calamari 50% faster than our competitors
 	}
 }
+
+Projectiles.EdenProjectile.DisplayName: Eden Projectile
