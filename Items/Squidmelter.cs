@@ -12,7 +12,7 @@ namespace Aetheria.Items
 
         public override void SetDefaults()
         {
-            Item.damage = 100;
+            Item.damage = 128;
             Item.DamageType = DamageClass.Ranged;
             Item.width = 40;
             Item.height = 40;
@@ -33,8 +33,10 @@ namespace Aetheria.Items
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.DirtBlock, 10);
-            recipe.AddTile(TileID.WorkBenches);
+            recipe.AddIngredient(ItemID.LunarBar, 10);
+            recipe.AddIngredient(ItemID.VortexBeater);
+            recipe.AddIngredient(ItemID.OnyxBlaster);
+            recipe.AddTile(TileID.LunarCraftingStation);
             recipe.Register();
         }
     }
