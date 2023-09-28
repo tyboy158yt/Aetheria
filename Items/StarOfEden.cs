@@ -7,9 +7,6 @@ namespace Aetheria.Items
 {
     public class StarOfEden : ModItem
     {
-        // The Display Name and Tooltip of this item can be edited in the Localization/en-US_Mods.Aetheria.hjson file.
-        // Duly noted.
-
         public override void SetDefaults()
         {
             Item.damage = 130;
@@ -21,7 +18,7 @@ namespace Aetheria.Items
             Item.useStyle = ItemUseStyleID.Swing;
             Item.knockBack = 6;
             Item.value = 10000;
-            Item.rare = ItemRarityID.Green;
+            Item.rare = ItemRarityID.Red;
             Item.UseSound = SoundID.Item1;
             Item.autoReuse = true;
             Item.shoot = ModContent.ProjectileType<EdenProjectile>();

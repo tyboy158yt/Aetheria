@@ -7,9 +7,6 @@ namespace Aetheria.Items
 {
     public class Squidmelter : ModItem
     {
-        // The Display Name and Tooltip of this item can be edited in the Localization/en-US_Mods.Aetheria.hjson file.
-        // Duly noted.
-
         public override void SetDefaults()
         {
             Item.damage = 128;
@@ -21,7 +18,7 @@ namespace Aetheria.Items
             Item.useStyle = ItemUseStyleID.Shoot;
             Item.knockBack = 10;
             Item.value = 10000;
-            Item.rare = ItemRarityID.Green;
+            Item.rare = ItemRarityID.Red;
             Item.UseSound = SoundID.Item11;
             Item.autoReuse = true;
             Item.shoot = 1;
