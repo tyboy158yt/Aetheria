@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj": {}
+    "C:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj": {}
   },
   "projects": {
-    "c:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj": {
+    "C:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj",
+        "projectUniqueName": "C:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj",
         "projectName": "Aetheria",
-        "projectPath": "c:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj",
+        "projectPath": "C:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\Aetheria.csproj",
         "packagesPath": "C:\\Users\\theac\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\obj\\",
+        "outputPath": "C:\\Users\\theac\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Aetheria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theac\\AppData\\Roaming\\NuGet\\NuGet.Config",

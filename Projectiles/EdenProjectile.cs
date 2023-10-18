@@ -18,7 +18,7 @@ namespace Aetheria.Projectiles
             Projectile.DamageType = DamageClass.Magic;
             Projectile.width = 8;
             Projectile.height = 8;
-            Projectile.aiStyle = 0;
+            Projectile.aiStyle = 71;
             Projectile.friendly = true;
             Projectile.hostile = false;
             Projectile.penetrate = -1;
