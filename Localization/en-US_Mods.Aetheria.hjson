@@ -10,6 +10,31 @@ Items: {
 		DisplayName: Squidmelter
 		Tooltip: Makes calamari 50% faster than our competitors
 	}
+
+	Threadripper: {
+		DisplayName: Threadripper
+		Tooltip: Fastest meat processor in the west
+	}
+
+	FireStick: {
+		DisplayName: Fire Stick
+		Tooltip: How do you have this?
+	}
+
+	CokeNuke: {
+		DisplayName: Coke Nuke
+		Tooltip: Weapon of choice of Snowflame, the cocaine powered supervillain
+	}
+
+	Crimstrap: {
+		DisplayName: Crimstrap
+		Tooltip: ""
+	}
+
+	Ebonstrap: {
+		DisplayName: Ebonstrap
+		Tooltip: ""
+	}
 }
 
 Projectiles.EdenProjectile.DisplayName: Eden Projectile

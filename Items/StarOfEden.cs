@@ -19,7 +19,7 @@ namespace Aetheria.Items
             Item.knockBack = 6;
             Item.value = 10000;
             Item.rare = ItemRarityID.Red;
-            Item.UseSound = SoundID.Item1;
+            Item.UseSound = SoundID.Item8;
             Item.autoReuse = true;
             Item.shoot = ModContent.ProjectileType<EdenProjectile>();
             Item.shootSpeed = 12;
